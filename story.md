@@ -28,7 +28,7 @@ The chaos grew with each passing week. Everyone on the
 team had their own versions of the files. Sebastian tried to 
 organize everything on his laptop, but eventually, 
 even he lost track of which file was the latest. 
-“final_v2_finished_FINAL!!!.cpp” clearly wasn’t the final version after all, 
+“final_v2_finished_FINAL!!!” clearly wasn’t the final version after all, 
 as he painfully discovered when the app completely crashed after an update.
 
 One evening, after yet another frustrating argument with David 
