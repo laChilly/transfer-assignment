@@ -23,3 +23,26 @@ Sebastian ran his hands through his hair, staring at the screen.
 “Where did my changes go?” David shrugged in the group chat, 
 replying casually, “Didn’t make sense. I replaced them with something better.”
 Sebastian felt his blood pressure rise.
+
+The chaos grew with each passing week. Everyone on the 
+team had their own versions of the files. Sebastian tried to 
+organize everything on his laptop, but eventually, 
+even he lost track of which file was the latest. 
+“final_v2_finished_FINAL!!!.js” clearly wasn’t the final version after all, 
+as he painfully discovered when the app completely crashed after an update.
+
+One evening, after yet another frustrating argument with David 
+that escalated into all-caps shouting and angry emojis, 
+Sebastian sat helplessly in front of his screen. “There has to be a solution,” 
+he muttered, opening his browser and starting a desperate Google search.
+
+After a few minutes, he stumbled upon a term that kept popping up in forums: Git.
+
+“What’s that supposed to be?” he wondered but clicked on the first guide out of curiosity. 
+“A version control system... hmm. Sounds fancy, but do I really need it?” 
+The more he read, however, the more he realized: this might just be the answer to his chaos.
+
+The next day, he decided to give it a try. He installed Git 
+and began learning basic commands like git init, git commit, and git branch. 
+At first, he felt like a complete beginner, but slowly, he started to grasp the power of Git. Suddenly, he could save changes without overwriting everything. 
+He could undo mistakes. And best of all: he could track everything David did.
